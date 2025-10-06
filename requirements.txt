@@ -1,0 +1,12 @@
+
+# `requirements.txt`
+```text
+# NOTE: This project uses Python standard library modules (tkinter, urllib, webbrowser).
+# No external pip packages are required for the basic app.
+#
+# If you want to install optional tooling (packagers, builders), uncomment lines below:
+# pyinstaller==5.13.0         # to build standalone executables (optional)
+# pyperclip==1.8.2            # if you want clipboard support outside tkinter (optional)
+#
+# Installation:
+# pip install -r requirements.txt
