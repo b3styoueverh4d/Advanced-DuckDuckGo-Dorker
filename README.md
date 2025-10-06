@@ -40,3 +40,19 @@ sudo apt install -y python3 python3-venv python3-pip python3-tk
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
+**macOS**
+```bash
+# Install Python (if not installed)
+brew install python
+
+# Create venv, activate, install
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+**Windows (PowerShell/Command Prompt)**
+```bash
+python -m venv venv
+venv\Scripts\Activate.ps1
+pip install -r requirements.txt
